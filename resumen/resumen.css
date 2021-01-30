@@ -1,0 +1,17 @@
+caption{color:white;
+font-size:21px;}
+
+body{background-image:url("12.png");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-attachment:fixed; }
+
+table{width:100%;}
+
+th,td,table{text-align:center;
+border: 2px solid black;
+ border-collapse:collapse;}
+th, td {
+	color:white;
+  padding: 5px;
+  text-align: left;}

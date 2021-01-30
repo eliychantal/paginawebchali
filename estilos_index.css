@@ -1,0 +1,35 @@
+header{	
+	text-align:left;
+	font-size:17px;
+	 color: white;
+	}
+
+nav {text-align:left;
+margin: 0px }
+
+
+body{
+	background-image: url("imag/fondo.png");
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-size:100% 100%;
+	margin: 24px;
+height:750px;}
+
+fieldset{text-decoration:none;                                                  
+border:none;}
+
+
+p{font-size:25px;
+margin: 25px;}
+
+#libro{float:right;
+margin:0px;}
+#ruedas{float:left;}
+
+
+a:hover{text-decoration:none;
+			font-size:30px;}
+a:link{color:white;
+	text-decoration:none;}
+a:visited{color:white;}

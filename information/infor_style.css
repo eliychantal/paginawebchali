@@ -1,0 +1,29 @@
+body{background-image:url("11.png");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-attachment:fixed; }
+
+#C1{
+	font-size: 30px;
+	text-align: center;
+	color: white; 
+}
+	
+#C2{ 
+	font-size: 30px;
+	text-align: center;
+	color: white;
+ }
+a:hover{text-decoration:none;
+			font-size:30px;}
+a:link{color:white;
+	text-decoration:none;}
+a:visited{color:white;}
+
+ p{font-size:20px;
+		margin: 25px; 
+		text-align: left;
+		color: white;
+		pattern:"[a-zA-ZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźñçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹÑßÇŒÆČŠŽ∂ð ,.'-]"}
+
+	}
